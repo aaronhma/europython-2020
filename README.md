@@ -1,5 +1,9 @@
 # Machine Learning for Everyone
 
+![Machine Learning image](https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg)
+
+[Source](https://www.ie.edu/exponential-learning/blog/data-science/machine-learning-marketing/)
+
 ## About
 This repo contains slides and code for Aaron Ma's "Machine Learning for Everyone" @ EuroPython 2020.
 
